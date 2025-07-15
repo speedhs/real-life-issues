@@ -5,7 +5,7 @@ Or your brilliant fixes (who are we kidding)?
 Welcome to **Real Life Issues** — a fun, community-driven GitHub project where your *real-life* headaches become *real-fun* discussions, and maybe even real solutions.
 
 ---
-Check auto-revert
+Check auto-1-revert
 ## 💡 What is this?
 
 Think of this as an issue tracker for *life itself*.
